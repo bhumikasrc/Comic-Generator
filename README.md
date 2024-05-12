@@ -1,5 +1,11 @@
 # Manga Comic Character Generator - DCGAN
 
+## Contributors
+- [Aditya Nair](https://github.com/adityanair98)
+- [Bhumika Srinivas](https://github.com/bhumikasrc)
+- [Rashmi Panse](https://github.com/rxshmi-p)
+
+
 ## Overview
 The Manga Character Generator is a project that leverages Generative Adversarial Networks (GANs) to generate manga characters. The project aims to generate manga characters that are unique and diverse which can be used in comic books, animations, and other creative projects.
 
