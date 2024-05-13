@@ -23,3 +23,8 @@ Here are some of the generated manga characters:
 <img src="images/image_50.png" alt="Generated Manga Characters" width="500" align="center">
 <img src="images/image_100.png" alt="Generated Manga Characters" width="500" align="center">
 <img src="images/image_200.jpg" alt="Generated Manga Characters" width="500" align="center">
+
+## Contributors
+- [Aditya Nair](https://github.com/adityanair98)
+- [Bhumika Srinivas](https://github.com/bhumikasrc)
+- [Rashmi Panse](https://github.com/rxshmi-p)
