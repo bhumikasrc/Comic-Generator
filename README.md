@@ -15,7 +15,7 @@ The model architecture used for the project is a Deep Convolutional Generative A
 
 ## Results
 
-We trained the model for 200 epochs with a batch size of 128. Due to the limited computational resources, we trained the model on Google Colab. Further training the model for more epochs and on a larger dataset can improve the quality of the generated images.
+We trained the model for 300 epochs with a batch size of 128. Due to the limited computational resources, we trained the model on Google Colab. Further training the model for more epochs and on a larger dataset can improve the quality of the generated images.
 
 Here are some of the generated manga characters:
 
@@ -23,6 +23,7 @@ Here are some of the generated manga characters:
 <img src="images/image_50.png" alt="Generated Manga Characters" width="500" align="center">
 <img src="images/image_100.png" alt="Generated Manga Characters" width="500" align="center">
 <img src="images/image_200.jpg" alt="Generated Manga Characters" width="500" align="center">
+<img src="images/image_300.jpeg" alt="Generated Manga Characters" width="500" align="center">
 
 ## Contributors
 - [Aditya Nair](https://github.com/adityanair98)
