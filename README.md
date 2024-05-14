@@ -3,7 +3,7 @@
 ## Overview
 The Manga Character Generator is a project that leverages Generative Adversarial Networks (GANs) to generate manga characters. The project aims to generate manga characters that are unique and diverse which can be used in comic books, animations, and other creative projects.
 
-Medium Article: [Manga Character Generator](https://)
+Medium Article: [Manga Character Generator](https://medium.com/deep-learning-gans/manga-comic-character-generator-dcgan-4cb02fa32e61)
 
 ## Dataset
 
